@@ -7,6 +7,7 @@
 <body>
 <?php
 
+
 $WasError = 0; 
 if (isset($_REQUEST['doSubmit'])) do {
 
