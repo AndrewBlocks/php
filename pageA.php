@@ -1,5 +1,5 @@
-<?php ## Базовый класс страницы
-  class Page
+<?php ## Абстрактный класс страницы
+  abstract class Page
   {
     // Любая страница имеет заголовок
     protected $title;
