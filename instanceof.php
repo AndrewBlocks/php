@@ -10,6 +10,8 @@
 	$page = new StaticPage(3);
 	echoPage($page);
 
+	
+
 
 
 ?>
