@@ -1,0 +1,1 @@
+[18-Apr-2021 07:46:57 Europe/Paris] PHP Warning:  filemtime(): stat failed for spoon in C:\Program Files\EasyPHP-Devserver-17\eds-www\er.php on line 5
